@@ -1,5 +1,5 @@
 # CyberCrime:
-## The crimes committed online using computer and other physicall devices and aim at looting the audience online comes under cybercrime.
+## The crimes committed online using computer and other physical devices and aim at looting the audience online comes under cybercrime.
 ### Let  me explain it through a case study: 
  A customer has seen an advertisement on instagram  where decent merches were on sale on reduced prices. Such stuff encourages audience to buy them . These sites claim to have affiliation 
  and support of large markets which is only false. These claim to follow a set of rules and exhibit all protection regarding your personal details.  These offer return policy. But once ordered, these sites are
